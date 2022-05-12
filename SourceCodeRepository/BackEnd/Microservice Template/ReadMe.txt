@@ -1,0 +1,1 @@
+This folder contains the code for the basic template of a Microservices used in the System.
