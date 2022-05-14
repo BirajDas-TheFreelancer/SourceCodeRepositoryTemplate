@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @BirajDas-TheFreelancer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About 
+	
+# Reffer 	
+	
+[GitHub Pages](https://pages.github.com/)
+	
+[Writing-on-github]https://docs.github.com/en/get-started/writing-on-github
+	
+# Pending Development : 
+	Priority : A must to have features
 
-<!---
-BirajDas-TheFreelancer/BirajDas-TheFreelancer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+	Wishlist : Good to have features. 
+		
+		1. WorkspaceManager
+			
+			Features:
+				
+				1. Auto Git Push 
+					-> Detect creation of folders and create README.md file.
+					-> Push to GitHub every 6 Hrs 
+			
+
