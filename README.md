@@ -4,7 +4,7 @@
 	
 [GitHub Pages](https://pages.github.com/)
 	
-[Writing-on-github]https://docs.github.com/en/get-started/writing-on-github
+[Writing-on-github](https://docs.github.com/en/get-started/writing-on-github)
 	
 # Pending Development : 
 	Priority : A must to have features
